@@ -20,8 +20,13 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Wonjeong&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonjeong&layout=compact&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=wj0624&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wj0624&layout=compact&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332"
            /> </div> 
     </div>
-    
+    <div align= "center"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Algorithm </h2> 
+        <div align= "center">
+            [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=won4538)](https://solved.ac/won4538/)
+        </div>
+    </div>

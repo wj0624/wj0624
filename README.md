@@ -13,7 +13,7 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </div>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wj0624&layout=compact&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wj0624&layout=compact&bg_color=180,fffbe0,00000000&title_color=fb9332&text_color=fb9332&size_weight=0.5&count_weight=0.5" />
 </div>
 <br>
 <div align= "center"> 

@@ -20,7 +20,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧩 Algorithm </h2> <br>
     <div align= "center">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=won4538"(https://solved.ac/won4538/)/>
-        <img src="http://mazandi.herokuapp.com/api?handle=won4538&theme=warm"/>
+        <!--<img src="http://mazandi.herokuapp.com/api?handle=won4538&theme=warm"/>-->
     </div>
 </div>
 <br>
